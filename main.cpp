@@ -1,4 +1,3 @@
-//Simple Raycaster Demo 2
 
 #include <SDL2/SDL.h>
 #include <iostream>
