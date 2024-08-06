@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692097057 source:/home/user/Dokumente/Raycast/main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<cmath>
+
