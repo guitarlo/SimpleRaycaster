@@ -1,3 +1,7 @@
+// Raycaster Demo
+// Carlo Mansfeld 2023
+
+
 #include <SDL2/SDL.h>
 #include <iostream>
 #include <cmath>
