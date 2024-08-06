@@ -1,4 +1,5 @@
-
+// A Simple Raycaster
+// Written in C++ with SDL2
 #include <SDL2/SDL.h>
 #include <iostream>
 #include <cmath>
